@@ -14,7 +14,7 @@ function generateWordList() {
 
 const container = document.getElementById("wordContainer"); 
 
- 
+
 wordList.forEach((word, index) => { 
 
 const block = document.createElement("div"); 
